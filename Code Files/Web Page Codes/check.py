@@ -158,7 +158,7 @@ def dashboard():
 @app.route('/dashboard2')
 def dashboard2():
     cursor = mysql.connection.cursor()
-    cursor.execute(''' SELECT * from patients_list WHERE PatientID="21"''')
+    cursor.execute(''' SELECT * from patients_list WHERE PatientID="1"''')
     output = cursor.fetchall()
     cursor.close()
     return render_template('curve.html',output=output)
