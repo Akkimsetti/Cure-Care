@@ -1,4 +1,7 @@
-**CURE & CARE**
+<h1 align="center"><b>
+    Cure & Care
+  </b>
+</h1>
 
 **DESCRIPTION**
 
@@ -17,7 +20,11 @@ The home page provides you with four options:
 
 
 
-**Covid Prediction**
+<p align="center"><b>
+    Covid Prediction
+  </b>
+</p>
+
 ![symptom_check](https://user-images.githubusercontent.com/54552117/118691567-d662cf80-b826-11eb-9fe4-fba958069419.png)
 
 
@@ -39,7 +46,11 @@ There are again four options in the login interface:
 
 **1. Add a patient** : It is an interface to add a patient into the patients' database. Here it also predicts if the covid patient is severe, moderate or mild again using a logistic regression ML model and accordingly assigns them ICU, normal ward or home isolation. The severity is alerted to the patient by sending them email alerts. This is done using SMTP.
 
-**Patient classiﬁer**
+<p align="center"><b>
+    Patient classiﬁer
+  </b>
+</p>
+
 ![Classifier](https://user-images.githubusercontent.com/54552117/118691773-07430480-b827-11eb-8faa-3cdb1179254e.png)
 
 **2. Patients list**: This renders to the patients database to list out details of all the patients admitted.
@@ -60,7 +71,7 @@ The hardware part of our project is a robotic arm having 4 degrees of freedom. I
 
 ![Implementation_Flow_Chart](https://user-images.githubusercontent.com/54552117/118691908-2a6db400-b827-11eb-90f9-e8d606584151.PNG)
 
-The hardware components used in the Robotic-arm:
+The **hardware** components used in the Robotic-arm:
 
 ● Servos
 
@@ -76,7 +87,7 @@ The hardware components used in the Robotic-arm:
 
 
 
-The software components used :
+The **software** components used :
 
 ● Flask
 
@@ -92,25 +103,39 @@ The software components used :
 
 **PROCESS FLOW**
 
-**Software Process Flow**
+<p align="center"><b>
+    Software Process Flow
+  </b>
+</p>
+
 ![flow_chart](https://user-images.githubusercontent.com/54552117/118691982-3e191a80-b827-11eb-8af4-efd33a2607f9.png)
 
 
 
+<p align="center"><b>
+    Hardware Process Flow
+  </b>
+</p>
 
-**Hardware Process Flow**
 ![hardware](https://user-images.githubusercontent.com/54552117/118692050-4d986380-b827-11eb-9c44-c1d6057c35a6.PNG)
 
 **DATA FLOW DIAGRAM**
 
-**Patient’s Database**
+<p align="center"><b>
+    Patient’s Database
+  </b>
+</p>
+
 ![pat_data](https://user-images.githubusercontent.com/54552117/118692231-71f44000-b827-11eb-8a04-71f0b28102e6.png)
 
 
 
 
+<p align="center"><b>
+    Staff’s Database
+  </b>
+</p>
 
-**Staff’s Database**
 ![doc_data](https://user-images.githubusercontent.com/54552117/118692395-a0721b00-b827-11eb-92e3-9edbe2aaec95.png)
 
 ![bedandoxy](https://user-images.githubusercontent.com/54552117/118692368-96501c80-b827-11eb-9a0f-63df08b36254.PNG)
