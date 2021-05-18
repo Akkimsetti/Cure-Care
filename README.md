@@ -55,7 +55,9 @@ There are again four options in the login interface:
 
 **2. Patients list**: This renders to the patients database to list out details of all the patients admitted.
 
-**3. Dashboard**: Displays the list of patient ids and names. It redirects the user to the dashboard when they click on the Patient ID. This dashboard helps in visualizing the patient's condition. Jquery, AJAX, JSON endpoints, python scripts.
+**3. Dashboard**: Displays the list of patient ids and names. It redirects the user to the dashboard when they click on the Patient ID. This dashboard helps in visualizing the patient's condition. Jquery, AJAX, JSON endpoints, python scripts. It will take information dynamically from a spreadsheet and display it as a table in dashboard section.
+
+>Spreadsheet link: https://docs.google.com/spreadsheets/d/1oSLcvPqsJm-Tgto7Hu1M6PyZuVrjBj6H6guqs3wgn1o/edit?hl=en#gid=0
 
 **4. Predict Capacity:** Based on the number of patients in the database, inventory of hospital and frequency of patients being admitted per day, it predicts the number of days in which the hospital might run out of beds and oxygen.This helps the staff to be prepared for the upcoming covid wave.
 
