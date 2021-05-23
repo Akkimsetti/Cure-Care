@@ -161,4 +161,5 @@ The **software** components used :
 ● Run the check.py ﬁle
 
 You can access the website via <http://18.116.46.160:5000/>
+
 **NOTE**: Add a patient section sends mails to the patient's mail id which requires SMTP authentication. Hence this works only when the files are installed are run on localhost. The above link does not implement that part of the project. 
