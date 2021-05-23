@@ -148,7 +148,8 @@ The **software** components used :
 
 
 
-**Method-1: **
+
+**Method-1:**
 
 **Installation**
 
@@ -165,7 +166,9 @@ The **software** components used :
 ● Run the check.py ﬁle
 
 
-**Method-2 : **
+
+
+**Method-2 :**
 
 You can access the website via <http://18.116.46.160:5000/>
 
