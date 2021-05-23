@@ -162,4 +162,4 @@ The **software** components used :
 
 You can access the website via <http://18.116.46.160:5000/>
 
-**NOTE**: Add a patient section sends mails to the patient's mail id which requires SMTP authentication. Hence this works only when the files are installed are run on localhost. The above link does not implement that part of the project. 
+**NOTE**: "Add a patient" section of the login interface, sends a mail to the patient's email id which requires SMTP authentication. Hence this feature works only when the files are downloaded and are run on localhost. The above link does not implement that part of the project. 
