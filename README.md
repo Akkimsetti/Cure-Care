@@ -144,7 +144,11 @@ The **software** components used :
 
 
 
-**How to run the code :**
+**HOW TO RUN THE CODE :**
+
+
+
+**Method-1: **
 
 **Installation**
 
@@ -160,6 +164,11 @@ The **software** components used :
 
 ● Run the check.py ﬁle
 
+
+**Method-2 : **
+
 You can access the website via <http://18.116.46.160:5000/>
+
+
 
 **NOTE**: "Add a patient" section of the login interface, sends a mail to the patient's email id which requires SMTP authentication. Hence this feature works only when the files are downloaded and are run on localhost. The above link does not implement that part of the project. 
